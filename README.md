@@ -20,6 +20,11 @@ The **coffee business** captures a large volume of **transaction-level sales dat
 
 As a result, **planning decisions** related to **inventory**, **staffing**, and **promotions** were often driven by **intuition rather than data**.
 
+# Tools Used
+1. Microsoft Excel
+2. Power Query
+3. Pivot Tables and Data Vizualisation
+
 # Methodology
 
 1. Cleaned and standardised the original combined coffee shop sales dataset of **1,40,000+ rows** and **27 columns** to ensure consistency across products, sizes, dates, and locations.
