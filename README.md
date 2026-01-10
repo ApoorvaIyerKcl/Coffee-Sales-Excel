@@ -7,7 +7,7 @@
 Using **Microsoft Excel**, the dataset was **cleaned**, **structured**, and **analysed** through **pivot tables** and **dashboards**. The final output enables **stakeholders** to identify **high-performing products**, **peak demand periods**, and **regional performance differences**, supporting informed decisions around **inventory planning**, **staffing alignment**, and **promotional strategy**.
 
 
-**Business Problem**
+# Business Problem
 
 The **coffee business** captures a large volume of **transaction-level sales data** across **products**, **store locations**, and **time periods**. However, the **raw data** does not clearly answer questions required for effective **sales and marketing planning**.  
 
