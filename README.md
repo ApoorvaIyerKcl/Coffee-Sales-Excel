@@ -6,14 +6,12 @@
 
 **Retail sales data** is most valuable when it directly supports **business decision-making** rather than remaining as **raw transaction logs**. This project analyses **transactional sales data** from a **coffee retail business** to help **sales and marketing teams** understand **revenue drivers**, **customer demand patterns**, and **location-level performance**.  
 
-Using **Microsoft Excel**, the dataset was **cleaned**, **structured**, and **analysed** through **pivot tables** and **dashboards**. The final output enables **stakeholders** to identify **high-performing products**, **peak demand periods**, and **regional performance differences**, supporting informed decisions around **inventory planning**, **staffing alignment**, and **promotional strategy**.
-
 
 # Business Problem
 
 The **coffee business** captures a large volume of **transaction-level sales data** across **products**, **store locations**, and **time periods**. However, the **raw data** does not clearly answer questions required for effective **sales and marketing planning**.  
 
-# Key challenges included:
+**Key challenges included:**
 
 1. Limited clarity on **revenue-driving products**
 2. Difficulty identifying **demand fluctuations** across **months** and **peak hours**
@@ -40,7 +38,6 @@ As a result, **planning decisions** related to **inventory**, **staffing**, and 
 2. A small set of **products drives most sales revenue**, and **monthly trends** follow predictable **demand patterns**.  
 3. **Peak sales hours** revealed opportunities to better **align staffing with demand**.  
 4. The business should **prioritise high-performing products** and **review underperforming locations** to improve overall **sales performance**.
-
 
 # Next Steps
 
