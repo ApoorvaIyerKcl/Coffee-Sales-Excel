@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-**Retail sales data** is most valuable when it directly supports **business decision-making** rather than remaining as **raw transaction logs**. This project analyses **transactional sales data** from a **coffee retail business** to help **sales and marketing teams** understand **revenue drivers**, **customer demand patterns**, and **location-level performance**.  
+**Retail sales data** is most valuable when it directly supports **business decision-making** rather than remaining as **raw transaction logs**. This project analyses **transactional sales data** from a **coffee retail business** to help **sales and marketing teams** understand **revenue drivers**, **customer demand patterns**, and **location-level performance**.  **This is a data analysis project for the coffee shop industry.**
 
 
 ## Business Problem
